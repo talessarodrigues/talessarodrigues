@@ -40,4 +40,12 @@ Amante de **tecnologia** e **inovação**, acredito que o design transforma a vi
 ## 📊 Minhas Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=talessarod
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=talessarodrigues&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" alt="Talessa GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talessarodrigues&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true" alt="Talessa Top Linguagens"/>
+</p>
+
+---
+
+<p align="center">
+  ✨ Obrigada por visitar meu perfil! ✨
+</p>
