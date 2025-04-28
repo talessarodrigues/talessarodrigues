@@ -1,161 +1,55 @@
 # 👩🏻‍💻 Talessa Rodrigues
 
-**`Designer de UX/UI`**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=5F48D4&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Seja+bem-vindo(a)+ao+meu+perfil!;UX+%2F+UI+Design+%7C+Tech+%7C+Inovação+%F0%9F%9A%80" alt="Boas-vindas" />
+</p>
 
-Me chamo Talessa Mayara S. Rodrigues, tenho 20 anos e sou natural de Minas Gerais. Concluí o ensino médio no EEMJP, com o curso técnico em informática e UX/UI Designer pela EBAC, focada em criar experiências digitais intuitivas e acessíveis. Apaixonada por tecnologia, inovação e desenvolvimento de produtos centrados no usuário.
+---
+
+## ✨ Sobre mim
+
+Me chamo **Talessa Mayara S. Rodrigues**, tenho 20 anos e sou natural de **Minas Gerais**.  
+Sou formada em Técnico em Informática (EEMJP) e UX/UI Designer pela **EBAC**.  
+Acredito que **design é sobre pessoas**, por isso sou apaixonada por criar experiências digitais **intuitivas, acessíveis e encantadoras**. 🚀  
+Amante de tecnologia, inovação e desenvolvimento de produtos centrados no usuário! 🤍
+
+---
+
+## 📫 Conecte-se comigo
+
 <p align="left">
-    <a href=https://www.linkedin.com/in/talessa-mayara-s-rodrigues-230576278/">
-        <img 
-            alt="Follow Linkedln" 
-            title="Me siga no Linkedln" 
-            src="https://custom-icon-badges.demolab.com/linkedln/account/follow/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Follow&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a> 
-    <a href="https://github.com/talessarodrigues/talessarodrigues">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/talessarodrigues?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
+    <a href="https://www.linkedin.com/in/talessa-mayara-s-rodrigues-230576278/" target="_blank">
+        <img alt="LinkedIn" title="Me siga no LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
     </a>
-    <a href="https://github.com/talessarodrigues/talessarodrigues">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/talessarodrigues?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
+    <a href="https://github.com/talessarodrigues" target="_blank">
+        <img alt="GitHub" title="Me siga no GitHub" src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
     </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🛠️ Linguagens e Ferramentas
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<p align="left">
+    <img alt="Figma" title="Figma" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
+    <img alt="Adobe Photoshop" title="Adobe Photoshop" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />
+    <img alt="Adobe Illustrator" title="Adobe Illustrator" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" style="padding-right:10px;" />
+    <img alt="HTML" title="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+    <img alt="CSS" title="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+    <img alt="Zeplin" title="Zeplin" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Zeplin-logo.svg" style="padding-right:10px;" />
+</p>
 
-<br/>
-<br/>
+---
 
-### 📊 Estatísticas
+## 📊 Minhas Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=talessarodrigues&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" alt="Talessa GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talessarodrigues&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true" alt="Talessa Top Linguagens"/>
+</p>
 
-<img 
+---
+
+<p align="center">
+  ✨✨✨ Obrigada por visitar meu perfil! ✨✨✨
+</p>
