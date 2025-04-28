@@ -16,12 +16,9 @@ Amante de **tecnologia** e **inovação**, acredito que o design transforma a vi
 
 ## 📫 Conecte-se Comigo
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/talessa-mayara-s-rodrigues-230576278/" target="_blank">
-    <img alt="LinkedIn" title="Me siga no LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/talessarodrigues" target="_blank">
-    <img alt="GitHub" title="Me siga no GitHub" src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+    <img alt="LinkedIn" title="Me siga no LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-5F48D4?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
@@ -43,12 +40,4 @@ Amante de **tecnologia** e **inovação**, acredito que o design transforma a vi
 ## 📊 Minhas Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=talessarodrigues&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" alt="Talessa GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talessarodrigues&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true" alt="Talessa Top Linguagens"/>
-</p>
-
----
-
-<p align="center">
-  ✨ Obrigada por visitar meu perfil! ✨
-</p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=talessarod
