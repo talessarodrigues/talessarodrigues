@@ -9,7 +9,7 @@
 ## ✨ Sobre Mim
 
 Olá! Sou **Talessa Mayara S. Rodrigues**, uma **UX/UI Designer** apaixonada por criar **experiências digitais** **intuitivas e acessíveis**.  
-Com formação em **Técnico em Informática** pela **EEMJP** e **UX/UI Design** pela **EBAC**, busco sempre inovar e desenvolver soluções que coloquem o **usuário no centro** de tudo. 🚀  
+Com formação em **UX/UI Design** pela **EBAC**, busco sempre inovar e desenvolver soluções que coloquem o **usuário no centro** de tudo. 🚀  
 Amante de **tecnologia** e **inovação**, acredito que o design transforma a vida das pessoas. 🤍
 
 ---
