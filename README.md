@@ -33,8 +33,9 @@ Amante de **tecnologia** e **inovação**, acredito que o design transforma a vi
 ## 🛠️ Ferramentas e Tecnologias
 
 <p
-  align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="50" style="margin: 0 15px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" title="Photoshop" width="50" style="margin: 0 15px;" /> <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" title="ChatGPT" width="50" style="margin: 0 15px;" /> <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" title="Notion" width="50" style="margin: 0 15px;" /> <img 
+  align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="50" style="margin: 0 15px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" title="Photoshop" width="50" style="margin: 0 15px;" /> <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" title="ChatGPT" width="50" style="margin: 0 15px;" /> <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" title="Notion" width="50" style="margin: 0 15px;" /> <img  />
 </p>
+
 ---
 
 # 💼 Meus Projetos de UX/UI
