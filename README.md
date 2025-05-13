@@ -32,10 +32,9 @@ Amante de **tecnologia** e **inovação**, acredito que o design transforma a vi
 
 ## 🛠️ Ferramentas e Tecnologias
 
-<p align="left">
-  <img alt="Figma" title="Figma" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
-  <img alt="Photoshop" title="Photoshop" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />
-</p>
+<p
+  align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="50" style="margin: 0 15px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" title="Photoshop" width="50" style="margin: 0 15px;" /> <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" title="ChatGPT" width="50" style="margin: 0 15px;" /> <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" title="Notion" width="50" style="margin: 0 15px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" alt="Framer" title="Framer" width="50" style="margin: 0 15px;" /> </p> <p align="center"> <b>Figma</b> • <b>Photoshop</b> • <b>ChatGPT</b> • <b>Notion</b> • <b>Framer</b> 
+  </p>
 
 ---
 
