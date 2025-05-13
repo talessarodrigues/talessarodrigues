@@ -41,7 +41,8 @@ Amante de **tecnologia** e **inovação**, acredito que o design transforma a vi
 
 # 💼 Meus Projetos de UX/UI
 
-Este repositório reúne três projetos que desenvolvi durante minha formação como UX/UI Designer. Cada projeto representa uma etapa do meu aprendizado prático e aplicação de metodologias centradas no usuário.
+Este repositório reúne três projetos desenvolvidos ao longo da minha formação como UX/UI Designer. Cada um deles reflete uma fase importante da minha jornada de aprendizado, com aplicação prática de metodologias centradas no usuário, pesquisa, prototipação e testes. Através desses projetos, busquei resolver problemas reais com foco em usabilidade, acessibilidade e design intuitivo.
+
 
 ## 📁 Projetos
 
