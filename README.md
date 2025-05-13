@@ -32,8 +32,10 @@ Amante de **tecnologia** e **inovação**, acredito que o design transforma a vi
 
 ## 🛠️ Ferramentas e Tecnologias
 
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="50" style="margin: 0 15px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" title="Photoshop" width="50" style="margin: 0 15px;" /> <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" title="ChatGPT" width="50" style="margin: 0 15px;" /> <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" title="Notion" width="50" style="margin: 0 15px;" /> <img src="https://seeklogo.com/images/F/framer-logo-1A7FD03F4C-seeklogo.com.png" alt="Framer" title="Framer" width="50" style="margin: 0 15px;" /> </p>
-
+<p
+  align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="50" style="margin: 0 15px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" title="Photoshop" width="50" style="margin: 0 15px;" /> <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" title="ChatGPT" width="50" style="margin: 0 15px;" /> <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" title="Notion" width="50" style="margin: 0 15px;" /> <img 
+<img src="https://assets-global.website-files.com/62f0a7c65b40ec519f0b1803/62f0a7c65b40ec536a0b18e0_framer-logo.png" alt="Framer" title="Framer" width="50" style="margin: 0 15px;" />
+</p>
 ---
 
 # 💼 Meus Projetos de UX/UI
