@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Talessa Rodrigues
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=5F48D4&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Seja+bem-vindo(a)+ao+meu+perfil!;UX+%2F+UI+Design+%7C+Tech+%7C+Inovação+%F0%9F%9A%80" alt="Boas-vindas" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=B71C1C&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Seja+bem-vindo(a)+ao+meu+perfil!;UX+%2F+UI+Design+%7C+Tech+%7C+Inovação+%F0%9F%9A%80" alt="Boas-vindas" />
 </p>
 
 ---
